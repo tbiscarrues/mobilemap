@@ -2,7 +2,7 @@
   <name>Guardallaves</name>
   <description>Aplicación de ejemplo para gestión de guardallaves.</description>
   <author href="http://www.sgv.es" email="sgv@sgv.es">SGV</author>
-  <content src="index.html"/>
+  <content src="http://aplicaciones.sgv.es/sgvmap/mobile/index.html"/>
   <preference name="DisallowOverscroll" value="true"/>
   <preference name="android-minSdkVersion" value="14"/>
   <preference name="stay-in-webview" value="true" />
