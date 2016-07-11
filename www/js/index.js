@@ -33,7 +33,7 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-       cordova.InAppBrowser('http://aplicaciones.sgv.es/sgvmap/mobile/index.jsp','_self');
+	window.location="http://aplicaciones.sgv.es/sgvmap/mobile/index.jsp"; 
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
