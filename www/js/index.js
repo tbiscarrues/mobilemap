@@ -33,7 +33,7 @@ var app = {
     // The scope of 'this' is the event. In order to call the 'receivedEvent'
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
-	window.location="http://aplicaciones.sgv.es/sgvmap/mobile/index.jsp"; 
+	window.location="http://aplicaciones.sgv.es/sgvmap/mobile/index.html"; 
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
