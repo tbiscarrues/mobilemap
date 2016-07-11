@@ -3,7 +3,7 @@
     <name>Guardallaves</name>
     <description>Hello World sample application that responds to the deviceready event.</description>
     <author email="support@phonegap.com" href="http://phonegap.com">PhoneGap Team</author>
-    <content src="http://aplicaciones.sgv.es/sgvmap/mobile/index.jsp" />
+    <content src="http://aplicaciones.sgv.es/sgvmap/mobile/index.html" />
     <icon src="icon.png" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
